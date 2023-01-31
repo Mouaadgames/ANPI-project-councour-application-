@@ -1,0 +1,6 @@
+001;mohamad;ali;12;Admis
+003;galih;mouaad;36;Admis
+016;hafida;monalqsmk;240;Ajourne
+4;el_barrik;mouaad;16;Ajourne
+5641;lfkjsc,;flsd;6;Admis
+6554;ozeejf;dmlg;60;Admis
